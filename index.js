@@ -1,6 +1,6 @@
- function helloWorld (){
-    return 'HelloWorld';
- }
+const helloWorld =  ()=>{
+    return 'hello world';
+}
 
 
 
