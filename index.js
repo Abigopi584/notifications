@@ -1,5 +1,5 @@
 
-function Details (){
+export function Details (){
     const helloWorld =  ()=>{
         return 'hello world';
     }
@@ -10,4 +10,4 @@ function Details (){
 }
 
 
-module.exports =   Details;
+
